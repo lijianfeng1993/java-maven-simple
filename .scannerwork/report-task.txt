@@ -1,0 +1,5 @@
+projectKey=java-maven-simple
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/java-maven-simple
+ceTaskId=AV0WdT0B9k0i114wDH2C
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV0WdT0B9k0i114wDH2C
